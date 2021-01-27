@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zstr/bot-wa"
+    "url": "git+https://github.com/zstr04/bot-wa"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "zstr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zstr/bot-wa/issues"
+    "url": "https://github.com/zstr04/bot-wa/issues"
   },
-  "homepage": "https://github.com/zstr/bot-wa#readme"
+  "homepage": "https://github.com/zstr04/bot-wa#readme"
 }
