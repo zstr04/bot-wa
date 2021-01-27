@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/reuzsc"
+    "url": "git+https://github.com/zstr/bot-wa"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "zstr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/reuzsc/issues"
+    "url": "https://github.com/zstr/bot-wa/issues"
   },
-  "homepage": "https://github.com/benisadewa/reuzsc#readme"
+  "homepage": "https://github.com/zstr/bot-wa#readme"
 }
